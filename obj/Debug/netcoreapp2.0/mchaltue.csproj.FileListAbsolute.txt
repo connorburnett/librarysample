@@ -1,0 +1,10 @@
+c:\source\codeworks\mchaltue\bin\Debug\netcoreapp2.0\mchaltue.deps.json
+c:\source\codeworks\mchaltue\bin\Debug\netcoreapp2.0\mchaltue.runtimeconfig.json
+c:\source\codeworks\mchaltue\bin\Debug\netcoreapp2.0\mchaltue.runtimeconfig.dev.json
+c:\source\codeworks\mchaltue\bin\Debug\netcoreapp2.0\mchaltue.dll
+c:\source\codeworks\mchaltue\bin\Debug\netcoreapp2.0\mchaltue.pdb
+c:\source\codeworks\mchaltue\obj\Debug\netcoreapp2.0\mchaltue.csproj.CoreCompileInputs.cache
+c:\source\codeworks\mchaltue\obj\Debug\netcoreapp2.0\mchaltue.AssemblyInfoInputs.cache
+c:\source\codeworks\mchaltue\obj\Debug\netcoreapp2.0\mchaltue.AssemblyInfo.cs
+c:\source\codeworks\mchaltue\obj\Debug\netcoreapp2.0\mchaltue.dll
+c:\source\codeworks\mchaltue\obj\Debug\netcoreapp2.0\mchaltue.pdb
